@@ -1,0 +1,58 @@
+
+[
+  {
+    "id": "1",
+    "nome": "Traje Espacial NASA",
+    "preco": "1980",
+    "foto": "https://i.postimg.cc/cLGm9NR5/astrockets-Store.gif"
+  },
+  {
+    "id": "2",
+    "nome": "Traje Espacial 1980",
+    "preco": "2000",
+    "foto": "https://i.postimg.cc/d1dnnysR/modelo2.jpg"
+  },
+  {
+    "id": "3",
+    "nome": "Traje Espacial AAA23",
+    "preco": "2830",
+    "foto": "https://i.postimg.cc/L6mvB5rf/modelo3.jpg"
+  },
+  {
+    "id": "4",
+    "nome": "Traje Espacial SA32",
+    "preco": "7870",
+    "foto": "https://i.postimg.cc/j2bc1S2p/modelo4.jpg"
+  },
+  {
+    "id": "5",
+    "nome": "Traje Espacial 2020",
+    "preco": "5000",
+    "foto": "https://i.postimg.cc/SQ6DMCtk/modelo5.jpg"
+  },
+  {
+    "id": "6",
+    "nome": "Traje Espacial de Teste",
+    "preco": "3120",
+    "foto": "https://i.postimg.cc/rsNj22tK/modelo6.jpg"
+  },
+  {
+    "id": "7",
+    "nome": "Traje Espacial de Teste",
+    "preco": "3120",
+    "foto": "https://i.postimg.cc/rsNj22tK/modelo6.jpg"
+  },
+  {
+    "id": "8",
+    "nome": "Traje Espacial de Teste",
+    "preco": "3120",
+    "foto": "https://i.postimg.cc/rsNj22tK/modelo6.jpg"
+  },
+  {
+    "id": "9",
+    "nome": "Camisa Espacial",
+    "preco": "3120",
+    "foto": "https://i.postimg.cc/cLGm9NR5/astrockets-Store.gif"
+  }
+  
+]
